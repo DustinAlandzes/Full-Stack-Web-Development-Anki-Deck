@@ -73,6 +73,16 @@
         "Screen Shot 2019-12-30 at 7.29.35 PM.png",
         "Screen Shot 2019-12-30 at 7.30.54 PM.png",
         "Screen Shot 2019-12-30 at 7.31.09 PM.png",
+        "Screen Shot 2020-01-01 at 1.40.19 PM.png",
+        "Screen Shot 2020-01-01 at 1.43.24 PM.png",
+        "Screen Shot 2020-01-01 at 1.47.19 PM.png",
+        "Screen Shot 2020-01-01 at 1.47.37 PM.png",
+        "Screen Shot 2020-01-01 at 1.48.36 PM.png",
+        "Screen Shot 2020-01-01 at 1.48.54 PM.png",
+        "Screen Shot 2020-01-01 at 1.49.31 PM.png",
+        "Screen Shot 2020-01-01 at 1.50.42 PM.png",
+        "Screen Shot 2020-01-01 at 1.51.13 PM.png",
+        "Screen Shot 2020-01-01 at 1.52.59 PM.png",
         "anatomy-of-an-html-element.png",
         "inspect.png",
         "inspector_context.png"
@@ -586,6 +596,66 @@
             ],
             "flags": 0,
             "guid": "i|8#SrTvpV",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the <b>for loop</b>?",
+                "<div>A for loop consists of a 4 parts:</div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.40.19 PM.png\"><br></div><div><br></div><div>The first is typically used to initialize a counter variable.</div><div><br></div><div>The second is a condition to be evaluated each time before the loop executes again.</div><div><br></div><div>The final-expression between the parentheses executes at the end of each loop.</div><div><br></div><div>And finally there is a statement that is repeatedly executed as long is our condition is true.</div><div><br></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.43.24 PM.png\"></div>"
+            ],
+            "flags": 0,
+            "guid": "B95VxX/!WQ",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a <b>while</b> loop?",
+                "The <strong>while statement</strong> creates a loop that executes a specified statement as long as the test condition evaluates to true.&nbsp;<div><br></div><div>The condition is evaluated before executing the statement.</div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.47.19 PM.png\"><img src=\"Screen Shot 2020-01-01 at 1.47.37 PM.png\"><br></div><div><br></div><div>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f3Ox#-AWr`",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the <b>window.alert()</b> method do?",
+                "<div>It <b>displays an aler</b><b>t dialog</b> with the optional specified content and an OK button.</div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.48.36 PM.png\"></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.48.54 PM.png\"><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.49.31 PM.png\"><br></div><div><br></div>https://developer.mozilla.org/en-US/docs/Web/API/Window/alert"
+            ],
+            "flags": 0,
+            "guid": "I)8utWu_C%",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does <b>console.log()</b> do?",
+                "<div>It&nbsp;outputs a message to the web console.</div><div><br></div><div>The message may be a single string (with optional substitution values), or it may be any one or more JavaScript objects.<br></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.50.42 PM.png\"><img src=\"Screen Shot 2020-01-01 at 1.51.13 PM.png\"><br></div><div><br></div>https://developer.mozilla.org/en-US/docs/Web/API/Console/log"
+            ],
+            "flags": 0,
+            "guid": "JriiF.|R<|",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is <b>scope</b>?",
+                "The context in which values and <strong>expressions</strong> are \"visible\" or can be referenced.&nbsp;<div><br></div><div>If a <strong>variable</strong> or other expression is not \"in the current scope,\" then it is unavailable for use.&nbsp;</div><div><br></div><div>Scopes can also be layered in a hierarchy, so that child scopes have access to parent scopes, but not vice versa.<div><br></div><div>A <strong>function</strong> serves as a <strong>closure</strong> in JavaScript, and thus creates a scope, so that (for example) a variable defined exclusively within the function cannot be accessed from outside the function or within other functions. For instance, the following is invalid:<br></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.52.59 PM.png\"><br></div></div><div>https://developer.mozilla.org/en-US/docs/Glossary/Scope<br></div>"
+            ],
+            "flags": 0,
+            "guid": "eKq~lL)5FJ",
             "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
             "tags": []
         }
