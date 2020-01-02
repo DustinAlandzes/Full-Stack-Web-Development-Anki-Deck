@@ -8,7 +8,7 @@ Using https://github.com/Stvad/CrowdAnki to collaboratively create a deck for a 
 2. Clone the repository you've created:
 
     ```
-    git clone https://github.com/Stvad/DeckX.git
+    git clone https://github.com/DustinAlandzes/Full-Stack-Web-Development-Anki-Deck.git
     ```
 
 3. [Import the deck](#import).
