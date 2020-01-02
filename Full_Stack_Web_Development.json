@@ -61,6 +61,28 @@
         "Screen Shot 2019-12-29 at 4.45.43 PM.png",
         "Screen Shot 2019-12-29 at 4.46.06 PM.png",
         "Screen Shot 2019-12-29 at 4.58.33 PM.png",
+        "Screen Shot 2019-12-30 at 7.22.57 PM.png",
+        "Screen Shot 2019-12-30 at 7.23.10 PM.png",
+        "Screen Shot 2019-12-30 at 7.23.25 PM.png",
+        "Screen Shot 2019-12-30 at 7.24.25 PM.png",
+        "Screen Shot 2019-12-30 at 7.25.05 PM.png",
+        "Screen Shot 2019-12-30 at 7.25.43 PM.png",
+        "Screen Shot 2019-12-30 at 7.26.16 PM.png",
+        "Screen Shot 2019-12-30 at 7.26.33 PM.png",
+        "Screen Shot 2019-12-30 at 7.28.00 PM.png",
+        "Screen Shot 2019-12-30 at 7.29.35 PM.png",
+        "Screen Shot 2019-12-30 at 7.30.54 PM.png",
+        "Screen Shot 2019-12-30 at 7.31.09 PM.png",
+        "Screen Shot 2020-01-01 at 1.40.19 PM.png",
+        "Screen Shot 2020-01-01 at 1.43.24 PM.png",
+        "Screen Shot 2020-01-01 at 1.47.19 PM.png",
+        "Screen Shot 2020-01-01 at 1.47.37 PM.png",
+        "Screen Shot 2020-01-01 at 1.48.36 PM.png",
+        "Screen Shot 2020-01-01 at 1.48.54 PM.png",
+        "Screen Shot 2020-01-01 at 1.49.31 PM.png",
+        "Screen Shot 2020-01-01 at 1.50.42 PM.png",
+        "Screen Shot 2020-01-01 at 1.51.13 PM.png",
+        "Screen Shot 2020-01-01 at 1.52.59 PM.png",
         "anatomy-of-an-html-element.png",
         "inspect.png",
         "inspector_context.png"
@@ -454,6 +476,186 @@
             ],
             "flags": 0,
             "guid": "swV8O~}YM@",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you use comments in Javascript?",
+                "Comments are, essentially, short snippets of text that can be added in-between code which is ignored by the browser.<div><br></div><div>/* Everything in between is a comment. */<br></div><div><br></div><div>If your comment contains no line breaks,&nbsp;it's often easier to put it behind two slashes like this:<br></div><div><br></div><div>// This is a comment<br></div><div><br></div><div>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Comments<br></div>"
+            ],
+            "flags": 0,
+            "guid": "B;t;U5=2Ho",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a variable in Javascript?",
+                "<div>Variables are containers that you can store values in.</div><div><br></div><div>You start by declaring a variable with the <b>var</b> or the <b>let</b>&nbsp;keyword, followed by any name you want to call it:</div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.22.57 PM.png\"><br></div><div><br></div><div>After declaring a variable, you can give it a value:<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.23.10 PM.png\"><br></div><div><br></div><div>You can do both these operations on the same line if you wish:<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.23.25 PM.png\"><br></div><div><br></div>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Variables"
+            ],
+            "flags": 0,
+            "guid": "rUALy!uR#f",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the String data type in Javascript?",
+                "A sequence of text known as a string.&nbsp;<div><br></div><div>To signify that the value is a string, you must enclose it in quote marks.<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.24.25 PM.png\"></div>"
+            ],
+            "flags": 0,
+            "guid": "Q|>5fY!;IU",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Number data type in Javascript?",
+                "A number.&nbsp;<div><br><div>Numbers don't have quotes around them.<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.25.05 PM.png\"></div></div>"
+            ],
+            "flags": 0,
+            "guid": "b5VcF<T?WX",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Boolean data type in Javascript?",
+                "<div>A True or False value.&nbsp;<br></div><div><br></div><div>The words true and false are special keywords in JS, and don't need quotes.<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.25.43 PM.png\"></div>"
+            ],
+            "flags": 0,
+            "guid": "JZwI/PIi6$",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Array data type in Javascript?",
+                "A structure that allows you to store multiple values in one single reference.<div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.26.16 PM.png\"><br></div><div><br></div><div>Refer to each member of the array like this:</div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.26.33 PM.png\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "hMhWkH<ajw",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Object data type in Javascript?",
+                "Basically, anything.<div><br></div><div>Everything in JavaScript is an object, and can be stored in a variable. Keep this in mind as you learn.</div>"
+            ],
+            "flags": 0,
+            "guid": "Aulsk+lqho",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are conditionals?",
+                "<div>Conditionals are code structures which allow you to test if an expression returns true or not, running alternative code revealed by its result.&nbsp;</div><div><br></div><div>A very common form of conditionals is the&nbsp;if ... else&nbsp;statement.<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.28.00 PM.png\"><br></div><div><br></div>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Conditionals"
+            ],
+            "flags": 0,
+            "guid": "r|uj^N_TMf",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the ternary operator?",
+                "the only JavaScript operator that takes three operands: a condition followed by a question mark (?), then an expression to execute if the condition is truthy followed by a colon (:), and finally the expression to execute if the condition is falsy.<div><br></div><div>This operator is frequently used as a shortcut for the if statement.<br></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.29.35 PM.png\"><br></div><div><br></div><div>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator<br></div>"
+            ],
+            "flags": 0,
+            "guid": "P*.PxUL.f=",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are Functions?",
+                "Functions are a way of packaging&nbsp;functionality that you wish to reuse.<div><br></div><div>You can call a function multiple times, instead of rewriting the entire code each time.</div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.30.54 PM.png\"></div><div><br></div><div><img src=\"Screen Shot 2019-12-30 at 7.31.09 PM.png\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "i|8#SrTvpV",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the <b>for loop</b>?",
+                "<div>A for loop consists of a 4 parts:</div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.40.19 PM.png\"><br></div><div><br></div><div>The first is typically used to initialize a counter variable.</div><div><br></div><div>The second is a condition to be evaluated each time before the loop executes again.</div><div><br></div><div>The final-expression between the parentheses executes at the end of each loop.</div><div><br></div><div>And finally there is a statement that is repeatedly executed as long is our condition is true.</div><div><br></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.43.24 PM.png\"></div>"
+            ],
+            "flags": 0,
+            "guid": "B95VxX/!WQ",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a <b>while</b> loop?",
+                "The <strong>while statement</strong> creates a loop that executes a specified statement as long as the test condition evaluates to true.&nbsp;<div><br></div><div>The condition is evaluated before executing the statement.</div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.47.19 PM.png\"><img src=\"Screen Shot 2020-01-01 at 1.47.37 PM.png\"><br></div><div><br></div><div>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f3Ox#-AWr`",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the <b>window.alert()</b> method do?",
+                "<div>It <b>displays an aler</b><b>t dialog</b> with the optional specified content and an OK button.</div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.48.36 PM.png\"></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.48.54 PM.png\"><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.49.31 PM.png\"><br></div><div><br></div>https://developer.mozilla.org/en-US/docs/Web/API/Window/alert"
+            ],
+            "flags": 0,
+            "guid": "I)8utWu_C%",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does <b>console.log()</b> do?",
+                "<div>It&nbsp;outputs a message to the web console.</div><div><br></div><div>The message may be a single string (with optional substitution values), or it may be any one or more JavaScript objects.<br></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.50.42 PM.png\"><img src=\"Screen Shot 2020-01-01 at 1.51.13 PM.png\"><br></div><div><br></div>https://developer.mozilla.org/en-US/docs/Web/API/Console/log"
+            ],
+            "flags": 0,
+            "guid": "JriiF.|R<|",
+            "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is <b>scope</b>?",
+                "The context in which values and <strong>expressions</strong> are \"visible\" or can be referenced.&nbsp;<div><br></div><div>If a <strong>variable</strong> or other expression is not \"in the current scope,\" then it is unavailable for use.&nbsp;</div><div><br></div><div>Scopes can also be layered in a hierarchy, so that child scopes have access to parent scopes, but not vice versa.<div><br></div><div>A <strong>function</strong> serves as a <strong>closure</strong> in JavaScript, and thus creates a scope, so that (for example) a variable defined exclusively within the function cannot be accessed from outside the function or within other functions. For instance, the following is invalid:<br></div><div><br></div><div><img src=\"Screen Shot 2020-01-01 at 1.52.59 PM.png\"><br></div></div><div>https://developer.mozilla.org/en-US/docs/Glossary/Scope<br></div>"
+            ],
+            "flags": 0,
+            "guid": "eKq~lL)5FJ",
             "note_model_uuid": "bf51cb9e-2a8f-11ea-9ea3-80e6501faada",
             "tags": []
         }
