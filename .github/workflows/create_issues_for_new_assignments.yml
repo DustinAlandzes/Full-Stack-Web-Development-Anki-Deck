@@ -23,3 +23,10 @@ jobs:
         pip install -r requirements.txt
     - name: Create Issues
       run: python fetch_assignments_create_issues.py
+      env:
+        EMAIL: ${{ secrets.EMAIL }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        REPOSITORY: ${{ secrets.REPOSITORY }}
+        ASSIGNEE_CHOICES: ${{ secrets.ASSIGNEE_CHOICES }}
+
