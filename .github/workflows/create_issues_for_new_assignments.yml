@@ -29,4 +29,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         REPOSITORY: ${{ secrets.REPOSITORY }}
         ASSIGNEE_CHOICES: ${{ secrets.ASSIGNEE_CHOICES }}
+        COURSE_ID: ${{ secrets.COURSE_ID }}
 
