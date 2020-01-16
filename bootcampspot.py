@@ -4,7 +4,7 @@ import random
 import requests
 
 BASE_URL = "https://bootcampspot.com/api/instructor/v1/"
-COURSE_ID = 2163
+COURSE_ID = int(os.environ.get('COURSE_ID'))
 EMAIL = os.environ.get('EMAIL')
 PASSWORD = os.environ.get('PASSWORD')
 
