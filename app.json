@@ -20,11 +20,11 @@
     },
     "COURSE_ID": {
       "description": "The course id you are enrolled it, you can get this from the /api/instructor/v1/me endpoint",
-      "generator": "12345"
+      "generator": "XXXXX"
     },
     "ACCESS_TOKEN": {
       "description": "Access Token from github with admin:org, repo, user, possibly less",
-      "value": ""
+      "value": "xxxxxxxxxxxxxxxxxxxx"
     },
     "REPOSITORY": {
       "description": "Github repository you want to post the issues to",
