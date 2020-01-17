@@ -1,12 +1,8 @@
-import os
-import random
-
 import requests
 
+from settings import EMAIL, PASSWORD, COURSE_ID
+
 BASE_URL = "https://bootcampspot.com/api/instructor/v1/"
-COURSE_ID = int(os.environ.get('COURSE_ID'))
-EMAIL = os.environ.get('EMAIL')
-PASSWORD = os.environ.get('PASSWORD')
 
 
 class BootcampSpot:
@@ -26,5 +22,3 @@ class BootcampSpot:
                                  headers={'authToken': self.auth_token, 'Content-Type': 'application/json'})
         response.raise_for_status()
         return response.json()
-
-
