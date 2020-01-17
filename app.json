@@ -1,8 +1,8 @@
 {
   "name": "Post bootcamp spot ungraded homework as Github issues",
-  "description": "",
+  "description": "Will grab homework from the bootcampspot api, and add them to a github repository as issues",
   "repository": "https://github.com/DustinAlandzes/bootcampspot-homework-grading",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://avatars0.githubusercontent.com/u/5882512?s=460&v=4",
   "keywords": [
     "python",
     "apscheduler",
