@@ -1,0 +1,38 @@
+{
+  "name": "Post bootcamp spot ungraded homework as Github issues",
+  "description": "",
+  "repository": "https://github.com/DustinAlandzes/bootcampspot-homework-grading",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "python",
+    "apscheduler",
+    "bootcampspot",
+    "github"
+  ],
+  "env": {
+    "EMAIL": {
+      "description": "The email for your bootcamp spot account.",
+      "generator": "johndoe@emailprovider.com"
+    },
+    "PASSWORD": {
+      "description": "The password to your bootcamp spot account.",
+      "value": "SECRET"
+    },
+    "COURSE_ID": {
+      "description": "The course id you are enrolled it, you can get this from the /api/instructor/v1/me endpoint",
+      "generator": "12345"
+    },
+    "ACCESS_TOKEN": {
+      "description": "Access Token from github with admin:org, repo, user, possibly less",
+      "value": ""
+    },
+    "REPOSITORY": {
+      "description": "Github repository you want to post the issues to",
+      "value": "DustinAlandzes/bootcampspot-homework-grading"
+    },
+    "ASSIGNEE_CHOICES": {
+      "description": "List of Github usernames separated by commas",
+      "value": "DustinAlandzes,Dgarza0413"
+    }
+  }
+}
